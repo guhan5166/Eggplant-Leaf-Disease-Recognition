@@ -5,3 +5,6 @@ in this repository.
 To run the project:
 - Place `eggplant_disease_model.keras` inside the `model/` folder
 - Or contact the author to request the trained model
+
+Mail : guhan5166@gmail.com
+Instagram : guhan.ece
