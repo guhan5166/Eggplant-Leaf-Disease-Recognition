@@ -1,0 +1,7 @@
+⚠️ Model File Note
+Due to GitHub file size limitations, the trained model file is not included
+in this repository.
+
+To run the project:
+- Place `eggplant_disease_model.keras` inside the `model/` folder
+- Or contact the author to request the trained model
